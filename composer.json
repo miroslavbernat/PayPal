@@ -23,7 +23,7 @@
     "php": "^7.1",
     "ext-curl": "*",
     "ext-json": "*",
-    "nette/di": "3.0-RC2",
+    "nette/di": "^3.0-RC2",
     "nette/application": "3.0-RC3",
     "paypal/rest-api-sdk-php": "^1.14"
   },
