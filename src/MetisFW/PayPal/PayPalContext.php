@@ -2,10 +2,9 @@
 
 namespace MetisFW\PayPal;
 
-use Nette\Object;
 use PayPal\Rest\ApiContext;
 
-class PayPalContext extends Object {
+class PayPalContext {
 
   /** @var ApiContext */
   private $apiContext;
