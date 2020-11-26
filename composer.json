@@ -1,5 +1,5 @@
 {
-  "name": "metisfw/paypal",
+  "name": "miroslavbernat/nettepaypal",
   "type": "library",
   "description": "PayPal SDK integration for Nette Framework",
   "keywords": ["nette", "paypal", "pay", "checkout", "payment"],
